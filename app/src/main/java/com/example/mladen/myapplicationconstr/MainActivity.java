@@ -20,6 +20,6 @@ public class MainActivity extends AppCompatActivity {
         int as2 = 3;
         int as3 = 3;
 
-        int x3= 55;
+        int x3= 52;
     }
 }
